@@ -1,0 +1,6 @@
+id=faceunlocklibreplace
+name=Face Unlock Lib Replace
+version=1.0
+versionCode=1
+author=Rachel030219
+description=Replace arm64 libs in OpenGApps with arm libs on Android 8.x.
